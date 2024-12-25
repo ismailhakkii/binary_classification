@@ -1,0 +1,8 @@
+=== Binary Classification Model Results ===
+
+Confusion Matrix:
+[[124  30]
+ [ 30 116]]
+
+Sensitivity (TP / (TP + FN)): 0.7945
+Specificity (TN / (TN + FP)): 0.8052
